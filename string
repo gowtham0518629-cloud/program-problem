@@ -1,0 +1,32 @@
+leetcode 58
+  a="___life_is___easy_"
+  string b[]=a.split("//s+");
+return b[b.lenght-1].length();
+leetcode 1108
+  class string{
+  str=s1.to char array();
+  return a.replace(".",[.]);
+}
+leetcode 18 
+  for(char ch='a';ch<='Z';ch++)
+  {
+    if(s.index of(ch)==1)
+      {
+      return false;
+    }
+  }
+return true;
+leetcode 205
+  s1=cow;
+  s2=abb;
+for(int i=0;i<s1.length();i++)
+  {
+    char c=s1.charA+(i);
+    char d=s2.charA+(i);
+    if(s1.index of(C)!=s2 index of(1))
+      {
+      return false;
+    }
+  }return true;
+
+  
